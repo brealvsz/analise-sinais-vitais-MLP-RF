@@ -1,0 +1,8 @@
+para rodar o código no SO Linux e considerando que a linguagem Python
+esteja devidamente instalada:
+
+~outras instalações de extensões necessárias 
+pip install --upgrade pip
+pip install pandas scikit-learn numpy ~
+
+rode o arquivo principal main.py
